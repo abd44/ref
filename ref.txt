@@ -1,0 +1,7 @@
+https://www.kaggle.com/yufengsui/machine-learning-project-bank-marketing-analytics
+
+https://medium.com/@sundarstyles89/weight-of-evidence-and-information-value-using-python-6f05072e83eb
+
+https://github.com/Sundar0989/Variable-Selection-Using-Python/blob/master/Variable%20Selection%20using%20Python%20-%20Vote%20based%20approach.ipynb
+
+https://github.com/Sundar0989/EndtoEnd---Predictive-modeling-using-Python/blob/master/EndtoEnd%20code%20for%20Predictive%20model.ipynb
